@@ -25,7 +25,8 @@ Flutter<!-- описание репозитория -->
 Выполните команду flutter doctor в терминале.
 
 Эта команда проверит вашу установку и покажет, есть ли какие-либо проблемы.
-![image](https://github.com/user-attachments/assets/8408b3ee-4e14-4543-b7e8-5719182cde9a)
+![image](https://github.com/user-attachments/assets/07d276ee-8b99-485d-b03f-f3a35161ff35)
+
 
 ###  Установка Android Studio
  Скачайте Android Studio
@@ -50,7 +51,8 @@ Flutter<!-- описание репозитория -->
 
 Эмулятор запустится и будет готов к использованию.
 
-![image](https://github.com/user-attachments/assets/cc0f7863-7f15-4dfe-8619-eb8d4611e2d9)
+![image](https://github.com/user-attachments/assets/abe0dab1-52b0-4956-8f8b-7df0630bd59a)
+
 
 ### Установка VS Code
 
@@ -73,7 +75,7 @@ View - Command Pallete
 
 Ввести имя проекта и нажать Enter.
 
-![image](https://github.com/user-attachments/assets/137743fc-2f05-42a7-9375-d836ffd7308a)
 
 ## 2.Введение в виджеты
-![image](https://github.com/user-attachments/assets/faa746a6-0473-423e-b44c-72e527e6a64e)
+![image](https://github.com/user-attachments/assets/92d064da-aa97-4b2e-b746-8424ba0bc9e3)
+
