@@ -81,11 +81,30 @@ View - Command Pallete
 
 ## 3.Введение в ключи
 
+![image](https://github.com/user-attachments/assets/f72f3b6b-cc54-4db7-b634-d9e8dbff13a9)
+
+![image](https://github.com/user-attachments/assets/a5ba8645-e280-499c-af9e-65eff35ba5f4)
+
+
+
 ## 4.Основы компоновки UI
 
 ## 5.Null Safety
 
 ## 6.Навигация и передача данных
+
+Навигация по имени
+Хотя базовый подход к навигации прекрасно работает для небольших приложений, он может быстро стать громоздким по мере усложнения приложения. Лучшим подходом является использование именованных маршрутов, которые присваивают каждому экрану в приложении уникальный идентификатор. Вот пример:
+
+
+MaterialApp(
+  routes: {
+    '/': (context) => HomeScreen(),
+    '/second': (context) => SecondScreen(),
+  },
+);
+
+
 
 ## 7.Взаимодействие с пользователем
 
@@ -120,11 +139,23 @@ AlertDialog
 ![image](https://github.com/user-attachments/assets/fd80ae40-e90a-43ca-a8ae-572c03dcc43f)
 
 ## 8.Работа с HTTP (отправка запросов)
+
+
 ## 9.Управление состоянием
 ## 10.BLoC
+![image](https://github.com/user-attachments/assets/71d86841-764d-4bec-80f7-083f8f402e40)
+
+![image](https://github.com/user-attachments/assets/b5cefbe4-f288-4ba6-9940-9e4ca8ccc6bd)
+
+
 ## 11.Хранение данных на устройстве
 ## 12.Clean architecture
+![image](https://github.com/user-attachments/assets/453d8386-e38a-447c-97d0-402530ff9c62)
+
 ## 13.Генерация кода
+
+
+
 ## 14.Основы тестирования
 
 
