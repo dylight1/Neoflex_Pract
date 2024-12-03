@@ -119,6 +119,15 @@ AlertDialog
 
 ![image](https://github.com/user-attachments/assets/fd80ae40-e90a-43ca-a8ae-572c03dcc43f)
 
+## 8.Работа с HTTP (отправка запросов)
+## 9.Управление состоянием
+## 10.BLoC
+## 11.Хранение данных на устройстве
+## 12.Clean architecture
+## 13.Генерация кода
+## 14.Основы тестирования
+
+
 
 
 
