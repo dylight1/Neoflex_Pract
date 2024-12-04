@@ -79,21 +79,6 @@ View - Command Pallete
 ## 2.Введение в виджеты
 ![image](https://github.com/user-attachments/assets/92d064da-aa97-4b2e-b746-8424ba0bc9e3)
 
-## 3.Введение в ключи
-
-<<<<<<< HEAD
-## 4.Основы компоновки UI
-
-## 5.Null Safety
-
-## 6.Навигация и передача данных
-
-=======
-![image](https://github.com/user-attachments/assets/f72f3b6b-cc54-4db7-b634-d9e8dbff13a9)
-
-![image](https://github.com/user-attachments/assets/a5ba8645-e280-499c-af9e-65eff35ba5f4)
-
-
 
 ## 4.Основы компоновки UI
 ![image](https://github.com/user-attachments/assets/b301fc78-7b0b-461b-8e6a-3ec024af8343)
@@ -105,25 +90,10 @@ View - Command Pallete
 
 ## 6.Навигация и передача данных
 
-Навигация по имени
-Хотя базовый подход к навигации прекрасно работает для небольших приложений, он может быстро стать громоздким по мере усложнения приложения. Лучшим подходом является использование именованных маршрутов, которые присваивают каждому экрану в приложении уникальный идентификатор.
+![image](https://github.com/user-attachments/assets/f72f3b6b-cc54-4db7-b634-d9e8dbff13a9)
 
-![image](https://github.com/user-attachments/assets/cfeaafd2-92ed-43c2-9e3f-392b82ac14ab)
+![image](https://github.com/user-attachments/assets/a5ba8645-e280-499c-af9e-65eff35ba5f4)
 
-![image](https://github.com/user-attachments/assets/eda265fe-dc26-45f3-94d0-bd52c7315631)
-
-
-
-MaterialApp(
-  routes: {
-    '/': (context) => HomeScreen(),
-    '/second': (context) => SecondScreen(),
-  },
-);
-
-
-
->>>>>>> 1e07f91f72af2c9587abcefacd1469397b0723ea
 ## 7.Взаимодействие с пользователем
 
 Form
