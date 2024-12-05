@@ -109,11 +109,10 @@ TextField и TextFormField
 
 
 Валидация полей формы
-<<<<<<< HEAD
-=======
+
 ![image](https://github.com/user-attachments/assets/853c659a-524c-4b62-b5a1-e9aa350d7c2c)
 
->>>>>>> 1e07f91f72af2c9587abcefacd1469397b0723ea
+
 Выпадающий список
 
 ![image](https://github.com/user-attachments/assets/e1f65de2-db6c-4e0d-8e4f-f170aceb0e7d)
@@ -131,8 +130,7 @@ AlertDialog
 
 ![image](https://github.com/user-attachments/assets/fd80ae40-e90a-43ca-a8ae-572c03dcc43f)
 
-<<<<<<< HEAD
-=======
+
 ## 8.Работа с HTTP (отправка запросов)
 
 
@@ -178,6 +176,10 @@ dependencies:
 
 
 ## 11.Хранение данных на устройстве
+
+![image](https://github.com/user-attachments/assets/6209e991-e9bd-4cd2-bf91-e4508f977fc2)
+
+
 ## 12.Clean architecture
 ![image](https://github.com/user-attachments/assets/453d8386-e38a-447c-97d0-402530ff9c62)
 
@@ -220,9 +222,10 @@ Widget тестирование
 
 
 
+## Тестирование 
 
+![image](https://github.com/user-attachments/assets/99b081cf-28cb-4e95-810a-ad477f632820)
 
->>>>>>> 1e07f91f72af2c9587abcefacd1469397b0723ea
 
 
 
